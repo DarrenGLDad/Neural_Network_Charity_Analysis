@@ -25,6 +25,9 @@
 
   - I intuitively selected random numbers in hopes to reach my 75% accuracy.  I added an additional layer, resulting in a total of three, and I elected to have 114 in layer-1, 64 in layer-2, and 14 in layer-3. In the 2nd & 3rd attempts I changed the activation function to "tanh". There is no rule of thumb, the only to ascertain optimal performance is through trial & error, with the barometer being noticeable improvements...
 
+	<img width="909" alt="Screen Shot 2022-07-17 at 5 35 04 PM" src="https://user-images.githubusercontent.com/100239100/179425588-f402598d-d7a5-40ba-a50a-192d316e3448.png">
+
+
 - Were you able to achieve the target model performance?
 		
   - No, but I was able to increase the accuracy by a percentage point.
